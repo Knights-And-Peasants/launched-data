@@ -1,0 +1,60 @@
+{
+	"wallets": [
+		{
+			"name": "Team",
+			"address": "0xbCa4b69B76039DB5fAdcCc19706af252c4deD524",
+			"isMultisig": true
+		},
+		{
+			"name": "Marketing",
+			"address": "0x8546c91b43C9618c7A581c86D3f9dEC6e5989723",
+			"isMultisig": true
+		},
+		{
+			"name": "Dev",
+			"address": "0x6254Dd8Fd0095b8664ce84d8A3605d6A275a4F92",
+			"isMultisig": true
+		},
+		{
+			"name": "Team Knight (#0)",
+			"address": "0x7eA0EBe65031d3358d27cb09d8c3310EC53D9Ba4",
+			"isMultisig": true
+		}
+	],
+	"contracts": [
+		{
+			"network": "mainnet",
+			"addresses": [
+				{
+					"name": "Knights",
+					"address": "0x56eb68f994A4e2D8D6FAe6Ca4B5061B6f7FD92Cb"
+				},
+				{
+					"name": "KNIGHT",
+					"address": "0xc5843b3Dd9b912fd5958e5b1d1f27189eF7189Da"
+				},
+				{
+					"name": "xKNIGHT",
+					"address": "0x0Ac6A88a82B2638d1EA8B1bdeb86eB7249942469"
+				},
+				{
+					"name": "Quest Reward Vault",
+					"address": "0xc34a26946e8a27c983cb2A23b77Fa17597c42554"
+				},
+				{
+					"name": "Training Camp",
+					"address": "0xe86D85d15105532cE2d91Ed35D7a8Fd75659c421"
+				},
+				{
+					"name": "Marketplace",
+					"address": "0xa25689fA9345AeF2c8a0E71FDE094E164CF8E62e"
+				},
+				{
+					"name": "Election/Voting",
+					"address": "0xB3a1159bb7C5cAEFac8aa4b24faFa5DeCd6aA88E"
+				}
+			]
+		}
+	]
+	
+}
