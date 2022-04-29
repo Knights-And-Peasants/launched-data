@@ -52,6 +52,10 @@
 				{
 					"name": "Election/Voting",
 					"address": "0xB3a1159bb7C5cAEFac8aa4b24faFa5DeCd6aA88E"
+				},
+				{
+					"name": "The Farm",
+					"address": "0x1b6670B749Fc331B3C7C27D0a86cE9aAb48A652A"	
 				}
 			]
 		}
