@@ -56,6 +56,18 @@
 				{
 					"name": "The Farm",
 					"address": "0x1b6670B749Fc331B3C7C27D0a86cE9aAb48A652A"	
+				},
+				{
+					"name": "Wage Farms",
+					"address": "0xBc68FcFFc1b6018111E0AC6FE484af20ec3e7d7A"	
+				},
+				{
+					"name": "wFarmer",
+					"address": "0x5a9ac6C271653Dc5660aE90E8ecF1401164A2690"	
+				},
+				{
+					"name": "wAlchemist",
+					"address": "0x9Aa6715BfA11e5Bd63AF420F480C758C7038E08A"	
 				}
 			]
 		}
