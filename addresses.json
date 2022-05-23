@@ -30,6 +30,14 @@
 					"address": "0x56eb68f994A4e2D8D6FAe6Ca4B5061B6f7FD92Cb"
 				},
 				{
+					"name": "Peasants",
+					"address": "0x450ec80261466c636aCbFc557e765dddCC4c8946"	
+				},
+				{
+					"name": "Coin Purse",
+					"address": "0xbD9fEb37001758C5B091A7753094Ba5685Df0255"	
+				},
+				{
 					"name": "KNIGHT",
 					"address": "0xc5843b3Dd9b912fd5958e5b1d1f27189eF7189Da"
 				},
@@ -68,6 +76,18 @@
 				{
 					"name": "wAlchemist",
 					"address": "0x9Aa6715BfA11e5Bd63AF420F480C758C7038E08A"	
+				},
+				{
+					"name": "Peasant Minter",
+					"address": "0x6BAD2f971d3586CcD643342BAceb300843a23225"
+				},
+				{
+					"name": "Peasant Promoter",
+					"address": "0xf41F020f30f5313A0DF401C95E5Cd9755E68262B"
+				},
+				{
+					"name": "Peasant Airdropper",
+					"address": "0x6ed07E9CA8Ad8921694E68Eec3221972C0E87FaE"
 				}
 			]
 		}
